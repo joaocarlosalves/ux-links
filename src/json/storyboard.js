@@ -9,11 +9,6 @@ const storyboard =
                 "lang": "br"
             },
             {
-                "title": "O que é um storyboard no UX design?",
-                "link": "https://souldigital.com.br/blog/o-que-e-um-storyboard-no-ux-design",
-                "lang": "br"
-            },
-            {
                 "title": "O uso dos storyboards como documentação de base de UX Design",
                 "link": "https://brasil.uxdesign.cc/o-uso-dos-storyboards-como-documenta%C3%A7%C3%A3o-de-base-de-ux-design-11b3b2ac1fa4",
                 "lang": "br"

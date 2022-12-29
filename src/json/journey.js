@@ -1,7 +1,7 @@
 const journey = 
     {
         "id": 'journey', 
-        "title": "Journey",
+        "title": "Jornada do Cliente",
         "list": [
             {
                 "title": "Customer Journey Map: o que é e como usar para impulsionar seu Customer Experience",
@@ -16,6 +16,56 @@ const journey =
             {
                 "title": "Customer journey – como mapear a jornada do cliente?",
                 "link": "https://www.dinamize.com.br/blog/customer-journey/",
+                "lang": "br"
+            },
+            {   
+                "title": "O que é a jornada do usuário e qual sua importância em UX?",
+                "link": "https://escoladesignthinking.echos.cc/blog/2020/09/jornada-do-usuario-ux/",
+                "lang": "br"
+            },
+            {   
+                "title": "Jornada do Usuário: Entendendo e Melhorando as Interações",
+                "link": "https://medium.com/aela/jornada-do-usu%C3%A1rio-o-que-%C3%A9-e-sua-import%C3%A2ncia-em-ux-design-f8ac0cb025ca",
+                "lang": "br"
+            },
+            {   
+                "title": "Jornada do usuário: o que é, para que serve e como criar",
+                "link": "https://www.mjvinnovation.com/pt-br/blog/jornada-do-usuario-o-que-e/",
+                "lang": "br"
+            },
+            {   
+                "title": "Jornada do usuário (UX): boas práticas de comunicação com o cliente",
+                "link": "https://www.intelipost.com.br/blog/jornada-do-usuario-praticas-de-ux-para-o-cliente/",
+                "lang": "br"
+            },
+            {   
+                "title": "Ferramentas de Design Thinking – Mapa da Jornada do Usuário",
+                "link": "https://hdibrasil.com.br/conteudo/ferramentas-de-design-thinking-mapa-da-jornada-do-usuario",
+                "lang": "br"
+            },
+            {   
+                "title": "Como mapear a Jornada do Usuário",
+                "link": "https://www.youtube.com/watch?v=EiroPM-lL-U",
+                "lang": "br"
+            },
+            {   
+                "title": "Como criar um Mapa da Jornada do Usuário?",
+                "link": "https://www.youtube.com/watch?v=HdktfUSqVzc",
+                "lang": "br"
+            },
+            {   
+                "title": "As 3 divisões para criar um ótimo mapa de jornada do usuário",
+                "link": "https://www.youtube.com/watch?v=_L9CJxzJhA4",
+                "lang": "br"
+            },
+            {   
+                "title": "Como fazer um Jornada do Usuário no MIRO",
+                "link": "https://www.youtube.com/watch?v=g-5egpbk3K4",
+                "lang": "br"
+            },
+            {   
+                "title": "Jornada do Usuário: o que é e qual a importância?",
+                "link": "https://blog.opinionbox.com/jornada-do-usuario/",
                 "lang": "br"
             },
             {

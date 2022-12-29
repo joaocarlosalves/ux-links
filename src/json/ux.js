@@ -33,7 +33,7 @@ const ux =
                             "lang": "br"
                         },
                         {
-                            "title": "Como se tornar UX/UI Designer em 2021!",
+                            "title": "Como se tornar UX/UI Designer [2021]",
                             "link": "https://www.youtube.com/watch?v=ypVSYdM-iw0",
                             "lang": "br"
                         },
@@ -144,6 +144,11 @@ const ux =
                         "lang": "br"
                     },
                     {
+                        "title": "Uma ampla lista de métodos e entregáveis de UX design",
+                        "link": "https://brasil.uxdesign.cc/uma-ampla-lista-de-m%C3%A9todos-e-entreg%C3%A1veis-de-ux-design-7b83a859d234",
+                        "lang": "br"
+                    },
+                    {
                         "title": "Tipos e métodos de pesquisa de UX: quando usá-los?",
                         "link": "https://howedu.com.br/tipos-e-metodos-de-pesquisa-de-ux-quando-usa-los/",
                         "lang": "br"
@@ -167,6 +172,11 @@ const ux =
                     {
                         "title": "Fabricio Teixeira [Blog]",
                         "link": "https://fabricio.uxdesign.cc/",
+                        "lang": "br"
+                    },
+                    {
+                        "title": "UX Unicórnio",
+                        "link": "https://www.youtube.com/@UXUnicornio",
                         "lang": "br"
                     },
                     {

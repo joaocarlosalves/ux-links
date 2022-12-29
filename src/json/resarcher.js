@@ -1,7 +1,7 @@
 const resarcher = 
     {
         "id": 'resarcher', 
-        "title": "Resarcher",
+        "title": "Resarcher (Pesquisa)",
         "list": [
             {
                 "title": "Mini curso de UX Researcher",

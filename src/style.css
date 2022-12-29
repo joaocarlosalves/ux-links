@@ -57,6 +57,20 @@ a {
 }
 /***** Root Variables - END *****/
 
+.flag {
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    width: 1.33333333em;
+    line-height: 1em;
+    margin-right: 15px;
+    width: 18px;
+    height: 11px;
+}
+.flag-br { background-image: url("img/br.svg") }
+.flag-en { background-image: url("img/us.svg") }
 
 aside { 
     flex-direction: column;
@@ -126,4 +140,22 @@ main {
     font-size: 25px;
     padding-bottom: 15px;
     color: var(--secondary-dark)
+}
+
+.ux-basic > h3{ font-size: 40px }
+
+@media screen and (max-width: 800px) {
+    aside { display: none }
+    .content-container {
+        width: calc(100%);
+        padding: 5%;
+        margin: 0;
+    }
+    .content-container ul { display: block; margin-bottom: 60px; }
+    .content-container h4 { font-size: 14px }
+    .content-container h3 { font-size: 20px; padding-bottom: 10px }
+    .content-container ul li { margin-bottom: 15px }
+    .content-container ul li a { font-size: 14px }
+    .ux-basic > h3 { font-size: 30px }
+    .flag { margin-right: 5px }
 }
