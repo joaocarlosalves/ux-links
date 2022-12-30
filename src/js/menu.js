@@ -1,32 +1,32 @@
-export default function menu() {
-    let activeMenu;
-    
+export default function menu() {   
     const 
     menuList = document.querySelectorAll('.menu li'), 
+    display = (c, t) => c.setAttribute('style', `display: ${ t }`),
+    classList = (c, t) => t == 'add' ? c.classList.add('active-menu') : c.classList.remove('active-menu'),
     reset = () => document.querySelectorAll('.content-container ul').forEach(ul => {
-        ul.setAttribute('style', 'display: none');
-        menuList.forEach(m => m.classList.remove('active-menu'));
+        display(ul, 'none');
+        display(uxBasic, 'none');
+        menuList.forEach(m => classList(m, 'remove'));
     });
     
     const uxBasic = document.querySelector(`.ux-basic`);
     menuList.forEach(m => {
-        m.classList.remove('active-menu');
+        classList(m, 'remove');
         m.addEventListener('click', () => {
-            activeMenu = m.getAttribute('rel');
-            reset();
-            document.querySelector(`.${ activeMenu }`).setAttribute('style', 'display: block');
-            uxBasic.setAttribute('style', 'display: none');
-            home.classList.remove('active-menu');
-            m.classList.add('active-menu');
+            reset();            
+            display(document.querySelector(`.${ m.getAttribute('rel') }`), 'block');
+            display(uxBasic, 'none');
+            classList(home, 'remove');
+            classList(m, 'add');
         });
     });
     
     const home = document.querySelector('.home');
-    home.classList.add('active-menu');
+    classList(home, 'add');
     home.addEventListener('click', () => {
         reset();
-        uxBasic.setAttribute('style', 'display: block');
-        uxBasic.childNodes.forEach(u => u.setAttribute('style', 'display: block'));
-        home.classList.add('active-menu');
+        display(uxBasic, 'block');
+        uxBasic.childNodes.forEach(u => display(u, 'block'));
+        classList(home, 'add');
     });
 };
