@@ -9,6 +9,11 @@ const heuristica =
             "lang": "br"
         },
         { 
+            "title": "As Dez Heurísticas de Usabilidade de Jacob Nielsen",
+            "link": "https://www.youtube.com/watch?v=1gBV5PmiQz4",
+            "lang": "br"
+        },
+        { 
             "title": "10 Heurísticas de Usabilidade para User Interface",
             "link": "https://www.alura.com.br/artigos/10-heuristicas-usabilidade-para-user-interface",
             "lang": "br"
@@ -42,6 +47,11 @@ const heuristica =
             "title": "Heurística: Significado e Benefícios para um Projeto",
             "link": "https://escoladesignthinking.echos.cc/blog/2019/02/heuristica/",
             "lang": "br"
+        },
+        {
+            "title": "[TOOL] UX CHECK - Improve your website's UX.",
+            "link": "http://www.uxcheck.co/",
+            "lang": "en"
         }
     ]
 }

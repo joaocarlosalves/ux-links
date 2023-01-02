@@ -43,6 +43,11 @@ const ux =
                             "lang": "br"
                         },
                         {
+                            "title": "Os 20 Princípios Fundamentais de UX Design Que Um Designer Deve Seguir",
+                            "link": "https://userguiding.com/pt-br/blog/principios-de-ux-design/",
+                            "lang": "br"
+                        },
+                        {
                             "title": "Como eu me tornei um UX Designer ",
                             "link": "https://www.youtube.com/watch?v=xVci7EOtLBw",
                             "lang": "br"

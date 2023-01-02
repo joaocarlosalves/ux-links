@@ -9,6 +9,31 @@ const modelos =
                 "lang": "br"
             },
             {
+                "title": "Modelos Mentais - O que é isso?",
+                "link": "https://www.youtube.com/watch?v=TyQjz0yT1kE",
+                "lang": "br"
+            },
+            {
+                "title": "Série Modelos Mentais - 1",
+                "link": "https://www.youtube.com/watch?v=yCIwpagEtq0",
+                "lang": "br"
+            },
+            {
+                "title": "Série Modelos Mentais - 2",
+                "link": "https://www.youtube.com/watch?v=yCIwpagEtq0",
+                "lang": "br"
+            },
+            {
+                "title": "Série Modelos Mentais - 3",
+                "link": "https://www.youtube.com/watch?v=B9ubTFR-yr4",
+                "lang": "br"
+            },
+            {
+                "title": "Modelo mental: o que é e como ajuda a liderar e delegar nos negócios",
+                "link": "https://www.youtube.com/watch?v=FxdwTO4xD34",
+                "lang": "br"
+            },
+            {
                 "title": "O que é um modelo mental e como ele se relaciona com a experiência do usuário?",
                 "link": "https://ember.com.br/o-que-e-um-modelo-mental-e-como-ele-se-relaciona-com-a-experiencia-do-usuario/",
                 "lang": "br"
