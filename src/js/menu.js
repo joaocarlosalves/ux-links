@@ -7,9 +7,10 @@ export default function menu() {
         display(ul, 'none');
         display(basic, 'none');
         menu.forEach(m => classList(m, 'remove'));
-    });
-    
-    const basic = document.querySelector(`.ux-basic`);
+    }),
+    basic = document.querySelector(`.ux-basic`),
+    home = document.querySelector('.home');
+
     menu.forEach(m => {
         classList(m, 'remove');
         m.addEventListener('click', () => {
@@ -20,8 +21,7 @@ export default function menu() {
             classList(m, 'add');
         });
     });
-    
-    const home = document.querySelector('.home');
+
     classList(home, 'add');
     home.addEventListener('click', () => {
         reset();

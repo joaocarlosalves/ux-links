@@ -14,6 +14,11 @@ const modelos =
                 "lang": "br"
             },
             {
+                "title": "Arquitetura de informação aplicada na condução da experiência do usuário",
+                "link": "https://www.youtube.com/watch?v=RqKXRDbuUAc",
+                "lang": "br"
+            },
+            {
                 "title": "O que é Arquitetura da Informação e como ela influencia a UX do seu produto",
                 "link": "https://medium.com/ux-design-natal/o-que-%C3%A9-arquitetura-da-informa%C3%A7%C3%A3o-e-como-ela-influencia-a-ux-do-seu-produto-b4f20881b2b4",
                 "lang": "br"
@@ -32,7 +37,7 @@ const modelos =
                 "title": "Princípios de UI - Hierarquia EP 02",
                 "link": "https://www.youtube.com/watch?v=WpAVEAWcCLo",
                 "lang": "br"
-            },            
+            },                    
             {
                 "title": "Uma metodologia para a etapa de arquitetura da informação",
                 "link": "https://brasil.uxdesign.cc/arquitetura-da-informa%C3%A7%C3%A3o-d057cf7301a",

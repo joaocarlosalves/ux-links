@@ -57,6 +57,11 @@ const writing =
                 "title": "UX Writing: guia para entender como aplicar em produtos digitais",
                 "link": "https://blog.attri.com.br/ux-writing/",
                 "lang": "br"
+            },
+            {
+                "title": "UX Writing - Boas práticas para chatbots",
+                "link": "https://www.youtube.com/watch?v=srcK14QeO7w",
+                "lang": "br"
             }
         ]
     }
